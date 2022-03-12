@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QA Test</string>
+
+    <string name="title_connect_parrot"><b>Una nueva forma de conectar</b></string>
+    <string name="title_connect_here">Conéctate aquí</string>
+
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+
+    <plurals name="products">
+        <item quantity="one">%d producto</item>
+        <item quantity="other">%d productos</item>
+    </plurals>
+
+    <string name="price_product">%1$s MXN</string>
+
+    <string name="msg_error_load_products">Error al cargar los productos</string>
+    <string name="msg_error_update_product">Error al actualizar el producto</string>
+
+    <string name="logout">Logout</string>
+</resources>
